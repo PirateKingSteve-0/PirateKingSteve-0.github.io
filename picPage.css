@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+nav{
+    background-color: lightblue;
+    border: 3px solid lightgreen;
+    color: purple;
+}
+nav a{
+    padding: 100px 100px 100px;
+    color: purple;
+}
+
+nav a:hover{
+    color: yellow;
+}
+
+.one{
+    background-color: yellow;
+    color: red;
+}
+
+.two{
+    background-color: lightblue;
+    color: purple;
+}
+
+.pic1{
+    width: auto;
+    height: auto;
+    overflow: hidden;
+}
